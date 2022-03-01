@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'webmonetization.dev',
   tagline: 'Dinosaurs are cool',
-  url: 'https://webmonetization.dev',
+  url: 'https://webmonetization-dev.pages.dev/',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',

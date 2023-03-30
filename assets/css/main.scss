@@ -4,3 +4,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind forms;
+
+.illustration {
+    margin-right: -1.5rem;
+    z-index: 100;
+}
